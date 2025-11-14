@@ -5,8 +5,8 @@ body {
     margin-bottom: 0px;
 }
 .cabeçalho {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
